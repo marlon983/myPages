@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+body {
+  background-color: #342c1c url(../images/bg_body.png);
+}
+
+nav ul {
+  list-style: none;
+}
+
+#header {
+  background: #f4f0e9;
+}
+
+#content {
+  background: #e4ded2;
+}
+
+#footer {
+  background: #342c1c;
+}
+
+.inner {
+  width: 960px;
+  margin: 0 auto;
+}
